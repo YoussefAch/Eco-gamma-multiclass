@@ -1,0 +1,11 @@
+Tests/RealData/*
+Tests/RealData-MC/*
+Tests/RealData-MORI/*
+Tests/classifiersRealxgb/*
+supp_material.pdf
+Tests/experiments/*
+tests.py
+Tests/**/*.png
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]

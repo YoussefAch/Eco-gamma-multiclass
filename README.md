@@ -1,2 +1,3 @@
-# Eco-gamma-multiclass
-Source code to reproduce DSAA'21 paper's results
+# Economy multi-class
+
+You will find here all the necessary material to reproduce the experiments for the Economy methods adapted to multi-classification.
